@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FX SD">
+    <display-name lang="pt">FX SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO SD">
+    <display-name lang="pt">HBO SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="pt">HBO HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Sony SD">
+    <display-name lang="pt">Sony SD</display-name>
+    <icon src="../canais/tvfag.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Sony HD">
+    <display-name lang="pt">Sony HD</display-name>
+    <icon src="../canais/1601249070.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Comedy Central SD">
+    <display-name lang="pt">Comedy Central SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Comedy Central HD">
+    <display-name lang="pt">Comedy Central HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+</tv>
